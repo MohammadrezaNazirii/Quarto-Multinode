@@ -1,0 +1,1 @@
+{'mohammadreza': [2, 0, 0], 'hosein': [0, 2, 0]}
